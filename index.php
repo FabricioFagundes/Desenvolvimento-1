@@ -12,6 +12,8 @@ and open the template in the editor.
     <body>
         <?php
         // put your code here
+        <h1>Teste para o Projeto de Laboratório</h1>
+        
         ?>
     </body>
 </html>
